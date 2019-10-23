@@ -1,0 +1,21 @@
+{
+    "name": "microIOBOX",
+    "version": "0.0.7",
+    "description": "This is dc motor, stepper motor, steering gear library.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/microIOBOX-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "installedVersion": "workspace:51ad32b1-bd99-47c6-140f-e56bccd4ac9b",
+    "preferredEditor": "tsprj"
+}
